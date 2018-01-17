@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Переводчик</string>
+    <string name="enter_text">Введите текст</string>
+    <string name="translation">Перевод</string>
+    <string name="detectedLangError">Язык оригинала: </string>
+
+</resources>
